@@ -1,0 +1,10 @@
+[book]
+authors = ["Youbet Study Group"]
+language = "en"
+multilingual = false
+src = "src"
+title = "All About Cryptography"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
